@@ -1,0 +1,3 @@
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          31CAAD3F334E5DA1DBD8014B438EBC632DFE5F482EA5FF4EEE89993A228F7DAD       for_2024_offer.7z
